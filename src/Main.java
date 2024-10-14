@@ -1,6 +1,6 @@
 // TODO: we need to add the missing classes!
 
-// OK, I will add `Adder` and s33309 will add `Subtractor`.
+// OK, I will add `Substractor` and s33309 will add `Adder`.
 
 public class Main {
     public static void main(String[] args) {
